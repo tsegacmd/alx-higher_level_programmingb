@@ -1,0 +1,3 @@
+#!/bin/bash
+# runs Python code
+python3 $PYCODE
